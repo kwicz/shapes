@@ -1,0 +1,9 @@
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/katysolovewicz/Projects/epicodus/c#/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
